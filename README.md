@@ -25,26 +25,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1. The user creates a ticket in osticket and submits it for an agent to work on.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+2. The admin can assign the tickets specifically to an agent or the ticket will be automatically assigned based on the type of ticket being submitted. The agent can go into their Agent Panel and open the ticket to begin working on it. Inside the ticket, there is the option to chat with other agents as well as the User who submitted the ticket (separately or in a group message) in order to get things to move along quickly and without delay.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+3. The agent(s) will have a certain amount of time to finish the ticket based on the Help Topic's SLA which could mean the agent could have a certain amount of time from the time the ticket is submitted or if it is on a weekend or holiday the agent will have a certain amount of time to complete it starting on the next business day.
+
+4. Once the issue has been resolved, the agent can put in a brief description of the process used to fix the issue and can mark the ticket status as resolved.
+
+
+
+
+
+
